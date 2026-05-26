@@ -6,7 +6,7 @@ I am a passionate self taught developer learning full stack web development and 
 
 - [Video Transcriber:](https://github.com/MordeHadad/video-transcriber) A CLI app for python using AI to transcribe videos
 - [Commit Summary:](https://github.com/MordeHadad/commit-summary) A python script for python using AI to summarize what changed in markdown file
-- [taskstream:](https://github.com/MordeHadad/taskstream) A file hasher using SSE.
+- [taskstream:](https://github.com/MordeHadad/taskstream) A file hasher built on Next.js using SSE.
 
 ## My stack
 
